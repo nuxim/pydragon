@@ -1,2 +1,2 @@
 # pydragon
-dragon sdk for Python
+Python sdk for dragon
